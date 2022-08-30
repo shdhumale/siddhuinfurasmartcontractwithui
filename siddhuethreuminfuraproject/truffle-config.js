@@ -23,7 +23,7 @@
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
 const HDWalletProvider = require("@truffle/hdwallet-provider");
-var mnemonic = "ginger awesome frame relief news royal desk velvet already ripple soap fence";
+var mnemonic = "Your mnemonic";
 module.exports = {
   /**
    * Networks define how you connect to your ethereum client and let you set the
